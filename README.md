@@ -7,5 +7,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align=center>
 <image src="https://github-readme-stats.vercel.app/api?username=LeeMin-hyeong&theme=dark"><br>
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMin-hyeong&layout=compact&theme=dark">
+<!--image src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMin-hyeong&layout=compact&theme=dark"-->
 </div>

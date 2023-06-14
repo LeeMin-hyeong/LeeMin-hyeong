@@ -6,6 +6,6 @@ LeeMin-hyeong/LeeMin-hyeong is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <div align=center>
-<image src="https://github-readme-stats.vercel.app/api?username=LeeMin-hyeong&bg_color=88d8d8,58c4c4,004b72&title_color=000000&text_color=000000&hide=prs">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+  <image src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2minbrother">
+  <image src="https://github-readme-stats.vercel.app/api?username=LeeMin-hyeong&bg_color=88d8d8,58c4c4,004b72&title_color=000000&text_color=000000&hide=prs">
 </div>
